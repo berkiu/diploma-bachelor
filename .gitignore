@@ -1,0 +1,7 @@
+law/
+__pycache__/
+results/
+text_files/
+tz/
+*.csv
+*.json
